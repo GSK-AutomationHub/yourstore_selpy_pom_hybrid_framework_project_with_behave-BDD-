@@ -1,0 +1,165 @@
+{
+  "uid" : "b746e4fcdc85d5b",
+  "name" : "Login with set of invalid credentials -- @1.2 ",
+  "fullName" : "Login Functionality: Login with set of invalid credentials",
+  "historyId" : "284c6963b915afe0043e2935d34e76f5",
+  "time" : {
+    "start" : 1745236985951,
+    "stop" : 1745236997232,
+    "duration" : 11281
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError\n",
+  "statusTrace" : "  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\login_steps.py\", line 46, in step_impl\n    assert context.login_page.display_status_of_invalid_login_warning_message()\n",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError\n",
+    "statusTrace" : "  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\login_steps.py\", line 46, in step_impl\n    assert context.login_page.display_status_of_invalid_login_warning_message()\n",
+    "steps" : [ {
+      "name" : "Given User navigated to app home page",
+      "time" : {
+        "start" : 1745236991022,
+        "stop" : 1745236992041,
+        "duration" : 1019
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User click on My Account > Login menu",
+      "time" : {
+        "start" : 1745236992041,
+        "stop" : 1745236992954,
+        "duration" : 913
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "When User enters invalid email address \"demoqauser6@gmail.com\" as username",
+      "time" : {
+        "start" : 1745236992954,
+        "stop" : 1745236993196,
+        "duration" : 242
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And User enters invalid password \"demoqa123\" as password",
+      "time" : {
+        "start" : 1745236993196,
+        "stop" : 1745236993330,
+        "duration" : 134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "And click on login button",
+      "time" : {
+        "start" : 1745236993331,
+        "stop" : 1745236994729,
+        "duration" : 1398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then Proper warning message should be displayed",
+      "time" : {
+        "start" : 1745236994729,
+        "stop" : 1745236994933,
+        "duration" : 204
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"C:\\selenium_python_projects\\yourstore_behave_project\\.venv\\Lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\login_steps.py\", line 46, in step_impl\n    assert context.login_page.display_status_of_invalid_login_warning_message()\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ffab5aee2c14e84b",
+        "name" : "Login_with_set_of_invalid_credentials_--_@1.2__Proper_warning_message_should_be_displayed_20250421_173314.png",
+        "source" : "ffab5aee2c14e84b.png",
+        "type" : "image/png",
+        "size" : 34549
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "DDT"
+  }, {
+    "name" : "tag",
+    "value" : "login"
+  }, {
+    "name" : "feature",
+    "value" : "Login Functionality"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "email",
+    "value" : "demoqauser6@gmail.com"
+  }, {
+    "name" : "password",
+    "value" : "demoqa123"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "DDT", "login" ]
+  },
+  "source" : "b746e4fcdc85d5b.json",
+  "parameterValues" : [ "demoqauser6@gmail.com", "demoqa123" ]
+}

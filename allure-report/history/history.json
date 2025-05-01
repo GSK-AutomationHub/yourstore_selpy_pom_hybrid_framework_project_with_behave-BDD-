@@ -1,0 +1,121 @@
+{
+  "284c6963b915afe0043e2935d34e76f5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "1236f9f8b1a830e1",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure/#testresult/1236f9f8b1a830e1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1745236985951,
+        "stop" : 1745236997232,
+        "duration" : 11281
+      }
+    }, {
+      "uid" : "38715a8c5ba6dac0",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure/#testresult/38715a8c5ba6dac0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1745236831838,
+        "stop" : 1745236844362,
+        "duration" : 12524
+      }
+    } ]
+  },
+  "a2eda0b1ed9b29dacf4b77a5ecc9dac9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9071289f2a82a53f",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure/#testresult/9071289f2a82a53f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1745236997238,
+        "stop" : 1745237010448,
+        "duration" : 13210
+      }
+    }, {
+      "uid" : "ab3060861f6bef3e",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure/#testresult/ab3060861f6bef3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1745236844365,
+        "stop" : 1745236856433,
+        "duration" : 12068
+      }
+    } ]
+  },
+  "1a57d795e3f170c44c9d2790a838ca68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "db8f31c6fe80b133",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure/#testresult/db8f31c6fe80b133",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1745236973650,
+        "stop" : 1745236973652,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5d18b9985d0785f1",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure/#testresult/5d18b9985d0785f1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1745236816642,
+        "stop" : 1745236816644,
+        "duration" : 2
+      }
+    } ]
+  },
+  "a7b33f2a9e9a2b41e60abb366a643ef4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8508ac48045c347d",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure/#testresult/8508ac48045c347d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError\n",
+      "time" : {
+        "start" : 1745236973654,
+        "stop" : 1745236985943,
+        "duration" : 12289
+      }
+    }, {
+      "uid" : "801dd059e3ffcd5a",
+      "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure/#testresult/801dd059e3ffcd5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1745236816646,
+        "stop" : 1745236831833,
+        "duration" : 15187
+      }
+    } ]
+  }
+}

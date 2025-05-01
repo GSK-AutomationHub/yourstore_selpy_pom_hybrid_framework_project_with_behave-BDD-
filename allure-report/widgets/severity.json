@@ -1,0 +1,41 @@
+[ {
+  "uid" : "2f706954e139499a",
+  "name" : "Login with set of invalid credentials -- @1.1 ",
+  "time" : {
+    "start" : 1745237119352,
+    "stop" : 1745237132671,
+    "duration" : 13319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b07a064a24ba732",
+  "name" : "Login with valid credential",
+  "time" : {
+    "start" : 1745237119347,
+    "stop" : 1745237119349,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e6cbc6098dcb16a7",
+  "name" : "Login with set of invalid credentials -- @1.2 ",
+  "time" : {
+    "start" : 1745237132677,
+    "stop" : 1745237146306,
+    "duration" : 13629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67eaa54e8fc8db70",
+  "name" : "Login with set of invalid credentials -- @1.3 ",
+  "time" : {
+    "start" : 1745237146310,
+    "stop" : 1745237157170,
+    "duration" : 10860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

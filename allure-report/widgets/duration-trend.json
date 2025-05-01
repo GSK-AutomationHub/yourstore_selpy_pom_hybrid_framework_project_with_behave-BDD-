@@ -1,0 +1,36 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 37823
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 36798
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 39791
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 36798
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8082/job/yourstore_selpy_pom_hybrid_framework_project_with_behave(BDD)/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 39791
+  }
+} ]
