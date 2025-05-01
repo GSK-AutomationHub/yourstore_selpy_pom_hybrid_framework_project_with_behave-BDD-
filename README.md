@@ -1,4 +1,4 @@
-# Selenium Python Page Object Model Hybrid Framework Project with Behave BDD
+# Selenium Python POM Hybrid Framework Project with Behave BDD
 
 Hybrid Custom Framework to Test YourStore Web App with Behave BDD
 
