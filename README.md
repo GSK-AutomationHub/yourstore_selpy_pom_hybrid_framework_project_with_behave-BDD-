@@ -5,7 +5,7 @@ Hybrid Custom Framework to Test YourStore Web App with Behave BDD
 
 
 ### Tech Stack
-1. Python 3.11
+1. Python 3.12
 2. Behave - BDD
 3. PyTest - Testing Framework
 4. Reporting - Allure Report
