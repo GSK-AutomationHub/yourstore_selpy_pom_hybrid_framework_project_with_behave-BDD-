@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Apr 21 17:35:46 IST 2025","Mon Apr 21 17:35:57 IST 2025","10860","","","","","","Login with set of invalid credentials -- @1.3 ",""
-"skipped","Mon Apr 21 17:35:19 IST 2025","Mon Apr 21 17:35:19 IST 2025","2","","","","","","Login with valid credential",""
-"passed","Mon Apr 21 17:35:19 IST 2025","Mon Apr 21 17:35:32 IST 2025","13319","","","","","","Login with set of invalid credentials -- @1.1 ",""
-"passed","Mon Apr 21 17:35:32 IST 2025","Mon Apr 21 17:35:46 IST 2025","13629","","","","","","Login with set of invalid credentials -- @1.2 ",""
