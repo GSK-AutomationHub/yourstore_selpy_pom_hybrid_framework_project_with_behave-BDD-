@@ -8,7 +8,7 @@ Feature: Register Account functionality
   Scenario: Register to app with mandatory fields
     When User enter below details into mandatory fields
       | first_name | last_name | email                | telephone  | password  |
-      | demoqa07  | demoqa07  | demoqa07@testmail.com | 1234567003 | demoqa123 |
+      | demoqa107  | demoqa107  | demoqa107@testmail.com | 1234541003 | demoqa223 |
     And User select Privacy Policy option
     And User click on Continue button
     Then User account should get created successfully
